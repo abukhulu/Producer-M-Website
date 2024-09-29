@@ -18,10 +18,10 @@ The website is live and can be viewed at the following URL:
 
 ## Screenshots of Pages
 1. **Home page**
-   ![Home Page](home.png)
+   ![Home Page](images/home.PNG)
    
 2. **About page**:
-   ![About Page](about.png)
+   ![About Page](images/about.PNG)
    
 3. **Shop page**
    ![Shop Page](shop.png)
