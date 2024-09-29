@@ -36,28 +36,27 @@ JavaScript: External scripts for interactive functionality.
 
    
 
-3. **Products Page slide 1**
+3. **Contact Page **
    
-   ![Products Page](products1_page.png)
+   ![contact Page](contact.png)
 
    
 
-5. **Products Page slide 2**
+5. **Form Page**
    
-   ![Products Page slide 2](products2_page.png)
+   ![Form Page ](form.png)
 
    
-6. **Enquiries & Suggestions Page**
+6. **Home Page**
    
-   ![Enquiries & Suggestions Page](Enquiries_page.png)
+   ![home Page](home.png)
 
    
-8. **Contacts Page**
-   ![Contacts Page](contact_us_page.png)
+8. **Shop Page**
+   ![Shop Page](shop.png)
 
    
-10. **Testimonials Page**
-   ![Testimonials Page](Testimonials_page.png)
+
 
 Assignment Requirements
 This project was developed as part of a front-end web development lab task, involving:
