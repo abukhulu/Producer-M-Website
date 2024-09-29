@@ -18,19 +18,19 @@ The website is live and can be viewed at the following URL:
 
 ## Pages
 1. **Home**: Minimalist homepage with the name "PRODUCER M" in the background.
-   ![Home Page](images/home.PNG)
+   ![Home Page](home.png)
    
 2. **About**: Brief bio section introducing Producer M.
-   ![About Page](images/about.PNG)
+   ![About Page](about.png)
    
 3. **Shop**: A page with dropdowns for beats, merchandise, and drumkits, allowing users to browse and add items to the cart.
-   ![Shop Page](images/shop.PNG)
+   ![Shop Page](shop.png)
    
 4. **Contact**: Form to contact Producer M or book a session, using various input types.
-   ![Contact Page](images/contact.PNG)
+   ![Contact Page](contact.png)
    
 5. **Form Page**: Dedicated page for form submission with interactive elements like checkboxes, combo boxes, and file uploads.
-   ![Form Page](images/form.PNG)
+   ![Form Page](form.png)
 
 ## Technologies Used
 - **HTML5**: For structuring the content.
