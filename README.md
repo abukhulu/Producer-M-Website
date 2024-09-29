@@ -24,13 +24,13 @@ The website is live and can be viewed at the following URL:
    ![About Page](images/about.PNG)
    
 3. **Shop page**
-   ![Shop Page](shop.png)
+   ![Shop Page](images/shop.PNG)
    
 4. **Contact page*
-   ![Contact Page](contact.png)
+   ![Contact Page](images/contact.PNG)
    
 5. **Form Page**
-   ![Form Page](form.png)
+   ![Form Page](images/form.PNG)
 
 ## Technologies Used
 - **HTML5**: For structuring the content.
