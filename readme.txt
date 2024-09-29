@@ -17,7 +17,7 @@ Contact: A section to send messages and book a session, featuring forms with tex
 
 Pages
 1. Home: Minimalist homepage with the name "PRODUCER M" in the background.
-![Home Image](images/home.png)
+![Producer-M-Website](images/home.PNG)
 2. About: Brief bio section introducing Producer M.
 3. Shop: A page with dropdowns for beats, merchandise, and drumkits, allowing users to browse and add items to the cart.
 4. Contact: Form to contact Producer M or book a session, using various input types.
