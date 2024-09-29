@@ -16,20 +16,20 @@ The website is live and can be viewed at the following URL:
   - Drumkits (featuring Producer M's **Stash**).
 - **Contact**: A section to send messages and book a session, featuring forms with text boxes, radio buttons, checkboxes, and date pickers.
 
-## Pages
-1. **Home**: Minimalist homepage with the name "PRODUCER M" in the background.
+## Screenshots of Pages
+1. **Home page**
    ![Home Page](home.png)
    
-2. **About**: Brief bio section introducing Producer M.
+2. **About page**:
    ![About Page](about.png)
    
-3. **Shop**: A page with dropdowns for beats, merchandise, and drumkits, allowing users to browse and add items to the cart.
+3. **Shop page**
    ![Shop Page](shop.png)
    
-4. **Contact**: Form to contact Producer M or book a session, using various input types.
+4. **Contact page*
    ![Contact Page](contact.png)
    
-5. **Form Page**: Dedicated page for form submission with interactive elements like checkboxes, combo boxes, and file uploads.
+5. **Form Page**
    ![Form Page](form.png)
 
 ## Technologies Used
