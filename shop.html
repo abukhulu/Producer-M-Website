@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shop - Producer M</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Producer M Shop</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="shop.html">Shop</a>
+            <a href="forms.html">Book a Session</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section class="shop">
+        <h2>Browse Our Products</h2>
+
+        <label for="category">Choose a Category:</label>
+        <select id="category" name="category">
+            <option value="">Select a category</option>
+            <option value="beats">Beats</option>
+            <option value="merchandise">Merchandise</option>
+            <option value="drumkits">Drumkits</option>
+        </select>
+
+        <div class="product-grid">
+            <!-- Beats Section -->
+            <div class="product beats" id="beats" style="display: none;">
+                <h3>RED</h3>
+                <p>A fiery beat to set the mood.</p>
+                <button>Add to Cart</button>
+            </div>
+
+            <!-- Merchandise Section -->
+            <div class="product merchandise" id="merchandise" style="display: none;">
+                <h3>Merchandise</h3>
+                <p>Coming Soon...</p>
+            </div>
+
+            <!-- Drumkits Section -->
+            <div class="product drumkits" id="drumkits" style="display: none;">
+                <h3>Producer M's Stash</h3>
+                <p>Exclusive drumkit with premium sounds from Producer M.</p>
+                <button>Add to Cart</button>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Producer M. All Rights Reserved.</p>
+    </footer>
+
+    <script src="js/scripts.js"></script>
+</body>
+</html>

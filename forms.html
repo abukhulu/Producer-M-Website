@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book a Session - Producer M</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Book a Session</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="shop.html">Shop</a>
+            <a href="forms.html">Book a Session</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section class="session-form">
+        <h2>Reserve Your Studio Time</h2>
+        <form action="#" method="POST">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="date">Session Date:</label>
+            <input type="date" id="date" name="date" required>
+
+            <label for="time">Preferred Time:</label>
+            <input type="time" id="time" name="time" required>
+
+            <label for="session-type">Session Type:</label>
+            <select id="session-type" name="session-type">
+                <option value="recording">Recording</option>
+                <option value="mixing">Mixing</option>
+                <option value="mastering">Mastering</option>
+            </select>
+
+            <label for="file-upload">Upload Your Demo:</label>
+            <input type="file" id="file-upload" name="file-upload">
+
+            <input type="submit" value="Book Session">
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Producer M. All Rights Reserved.</p>
+    </footer>
+
+    <script src="js/scripts.js"></script>
+</body>
+</html>
