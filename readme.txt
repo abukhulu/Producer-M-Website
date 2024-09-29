@@ -32,7 +32,7 @@ JavaScript: External scripts for interactive functionality.
 ## Screenshots of the Pages
 
 1. **about Page**
-   ![About Page](About.PNG)
+   ![About Page](about.png)
 
    
 
