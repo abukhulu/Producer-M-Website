@@ -30,12 +30,19 @@
             <label for="time">Preferred Time:</label>
             <input type="time" id="time" name="time" required>
 
-            <label for="session-type">Session Type:</label>
-            <select id="session-type" name="session-type">
-                <option value="recording">Recording</option>
-                <option value="mixing">Mixing</option>
-                <option value="mastering">Mastering</option>
-            </select>
+            <label for="session-type">Session Type (Select one):</label>
+            <div>
+                <input type="radio" id="recording" name="session-type" value="recording" required>
+                <label for="recording">Recording</label>
+            </div>
+            <div>
+                <input type="radio" id="mixing" name="session-type" value="mixing">
+                <label for="mixing">Mixing</label>
+            </div>
+            <div>
+                <input type="radio" id="mastering" name="session-type" value="mastering">
+                <label for="mastering">Mastering</label>
+            </div>
 
             <label for="file-upload">Upload Your Demo:</label>
             <input type="file" id="file-upload" name="file-upload">
