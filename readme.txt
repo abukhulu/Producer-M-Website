@@ -32,13 +32,13 @@ JavaScript: External scripts for interactive functionality.
 ## Screenshots of the Pages
 
 1. **about Page**
-   ![About Page](about.png)
+   ![About Page](about.PNG)
 
    
 
 3. **Contact Page **
    
-   ![contact Page](contact.png)
+   ![contact Page](contact.PNG)
 
    
 
