@@ -28,6 +28,37 @@ HTML5: For structuring the content.
 CSS3: External stylesheets for styling the website.
 JavaScript: External scripts for interactive functionality.
 
+
+## Screenshots of the Pages
+
+1. **about Page**
+   ![About Page](About.PNG)
+
+   
+
+3. **Products Page slide 1**
+   
+   ![Products Page](products1_page.png)
+
+   
+
+5. **Products Page slide 2**
+   
+   ![Products Page slide 2](products2_page.png)
+
+   
+6. **Enquiries & Suggestions Page**
+   
+   ![Enquiries & Suggestions Page](Enquiries_page.png)
+
+   
+8. **Contacts Page**
+   ![Contacts Page](contact_us_page.png)
+
+   
+10. **Testimonials Page**
+   ![Testimonials Page](Testimonials_page.png)
+
 Assignment Requirements
 This project was developed as part of a front-end web development lab task, involving:
 - Creating a 5-page interactive website.
